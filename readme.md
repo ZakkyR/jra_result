@@ -1,4 +1,4 @@
-#jra_result
+# jra_result
 
 JRAのサイトから過去のレース結果をCSVに出力
 
